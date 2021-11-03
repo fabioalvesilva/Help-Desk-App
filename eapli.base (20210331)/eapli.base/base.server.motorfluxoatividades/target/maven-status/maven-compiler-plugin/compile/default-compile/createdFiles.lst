@@ -1,0 +1,16 @@
+base\server\motorfluxoatividades\BaseMotorFluxoAtividadesDaemon.class
+base\server\motorfluxoatividades\fluxoatividades\automaticas\GestorPedidosAutomaticos.class
+base\server\motorfluxoatividades\fluxoatividades\utils\NiveisPrioridade.class
+base\server\motorfluxoatividades\dashboard\config\HttpServerConfigurationManager.class
+base\server\motorfluxoatividades\fluxoatividades\utils\SortPedidoByNiveisCriticidade.class
+base\server\motorfluxoatividades\dashboard\portalrh\PortalRhAjaxRequest.class
+base\server\motorfluxoatividades\fluxoatividades\config\MotorFluxoConfigurationManager.class
+base\server\motorfluxoatividades\fluxoatividades\config\MotorFluxoConfiguration.class
+base\server\motorfluxoatividades\dashboard\portalrh\PortalRhAjaxServer.class
+base\server\motorfluxoatividades\dashboard\portalusers\PortalUtilizadoresAjaxServer.class
+base\server\motorfluxoatividades\dashboard\config\HttpServerConfiguration.class
+base\server\motorfluxoatividades\dashboard\HTTPmessage.class
+base\server\motorfluxoatividades\fluxoatividades\manuais\GestorPedidosManuais.class
+base\server\motorfluxoatividades\fluxoatividades\manuais\GestorPedidosManuais$1.class
+base\server\motorfluxoatividades\dashboard\portalusers\PortalUtilizadoresAjaxRequest.class
+base\server\motorfluxoatividades\fluxoatividades\automaticas\MotorFluxoAtividadesClient.class
